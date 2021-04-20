@@ -1,0 +1,42 @@
+unmap <c-e>
+unmap <c-y>
+unmap <a-p>
+unmap <a-m>
+unmap <Space> 
+unmap W
+unmap x
+unmap `
+unmap gi
+unmap gf
+unmap P
+unmap gT
+unmap gF
+unmap >>
+unmap <<
+unmap  b
+unmap  zH
+unmap  zL
+map j scrollDown
+map k scrollUp
+map J scrollPageDown
+map K scrollPageUp
+map e focusInput
+map gt togglePinTab
+map go Vomnibar.activate
+map n restoreTab
+map p openCopiedUrlInNewTab
+map d LinkHints.activateModeToOpenInNewTab
+# map a goBack
+unmap a
+map o nextTab
+map u previousTab
+map , Marks.activateGotoMode
+map > moveTabRight
+map < moveTabLeft
+map T moveTabToNewWindow
+map q goUp
+map B Vomnibar.activateBookmarksInNewTab
+map ge Vomnibar.activateEditUrlInNewTab
+map gE Vomnibar.activateEditUrl
+map . performFind
+map M toggleMuteTab
